@@ -7,3 +7,6 @@ TEST Branch Check In
 
 
 Test Again Demo for Scott
+
+
+Updating Master and Rebasing Branches
